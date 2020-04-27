@@ -1,1 +1,4 @@
-Please download LibSVM pre-compiled files in this directory
+Please download LIBSVM pre-compiled files in this directory
+LIBSVM is available here: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+After downloading copy the files in "windows" directory to this folder.
+Rename svmtrain to svmtrain2
