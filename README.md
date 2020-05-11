@@ -3,8 +3,8 @@ This is code corresponding to project "Stock prediction - Can we disprove Effici
 
 For running the code, please run "stockForecasting.m"
 
-In addition to code, there are two directories:
-1> Data - Data for 6 stocks analyzed have been save in excel format in this folder
+In addition to code, there are two directories: <\br>
+1> Data - Data for 6 stocks analyzed have been save in excel format in this folder <\br>
 2> Libsvm - Empty, download the pre-compiled LibSVM library here.
 
 About "stockForecasting.m" - In the code,user is asked to chose one of those stocks. Then code fetches
