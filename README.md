@@ -1,3 +1,4 @@
+## Stock prediction
 This is code corresponding to project "Stock prediction - Can we disprove Efficient Market Hypotheis?"
 
 For running the code, please run "stockForecasting.m"
